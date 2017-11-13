@@ -17,3 +17,8 @@
   topics:
     - secrets
     - tower
+-
+  text: 'The secret code to enter the tower is: 0'
+  topics:
+    - secrets
+    - tower
