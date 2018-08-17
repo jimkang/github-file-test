@@ -4,7 +4,7 @@
         <description><![CDATA[A Static Web Archive]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 31 Jul 2018 11:28:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Aug 2018 14:13:00 GMT</lastBuildDate>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[Smidgeo!]]></description>
@@ -75,6 +75,14 @@
             <link>https://smidgeo.com/notes/deathmtn/test-a-eBbw.html</link>
             <guid isPermaLink="false">test-a-eBbw</guid>
             <pubDate>Tue, 31 Jul 2018 11:28:28 GMT</pubDate>
+            <enclosure url="https://smidgeo.com/notes/deathmtn/media/smidgeo_headshot.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[Smidgeo!]]></description>
+            <link>https://smidgeo.com/notes/deathmtn/test-a-fIxF.html</link>
+            <guid isPermaLink="false">test-a-fIxF</guid>
+            <pubDate>Fri, 17 Aug 2018 14:12:41 GMT</pubDate>
             <enclosure url="https://smidgeo.com/notes/deathmtn/media/smidgeo_headshot.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
