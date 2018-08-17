@@ -4,85 +4,13 @@
         <description><![CDATA[A Static Web Archive]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 17 Aug 2018 14:13:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Aug 2018 14:20:49 GMT</lastBuildDate>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[Smidgeo!]]></description>
-            <link>https://smidgeo.com/notes/deathmtn/test-a-Wadz.html</link>
-            <guid isPermaLink="false">test-a-Wadz</guid>
-            <pubDate>Sat, 26 May 2018 01:50:57 GMT</pubDate>
-            <enclosure url="https://smidgeo.com/notes/deathmtn/media/smidgeo_headshot.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[Smidgeo!]]></description>
-            <link>https://smidgeo.com/notes/deathmtn/test-a-FcSw.html</link>
-            <guid isPermaLink="false">test-a-FcSw</guid>
-            <pubDate>Sat, 26 May 2018 02:01:02 GMT</pubDate>
-            <enclosure url="https://smidgeo.com/notes/deathmtn/media/smidgeo_headshot.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[Smidgeo!]]></description>
-            <link>https://smidgeo.com/notes/deathmtn/test-a-MzVp.html</link>
-            <guid isPermaLink="false">test-a-MzVp</guid>
-            <pubDate>Thu, 14 Jun 2018 16:08:32 GMT</pubDate>
-            <enclosure url="https://smidgeo.com/notes/deathmtn/media/smidgeo_headshot.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[Smidgeo!]]></description>
-            <link>https://smidgeo.com/notes/deathmtn/test-a-FEKD.html</link>
-            <guid isPermaLink="false">test-a-FEKD</guid>
-            <pubDate>Mon, 30 Jul 2018 14:40:00 GMT</pubDate>
-            <enclosure url="https://smidgeo.com/notes/deathmtn/media/smidgeo_headshot.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[Smidgeo!]]></description>
-            <link>https://smidgeo.com/notes/deathmtn/test-a-bFEy.html</link>
-            <guid isPermaLink="false">test-a-bFEy</guid>
-            <pubDate>Mon, 30 Jul 2018 14:41:58 GMT</pubDate>
-            <enclosure url="https://smidgeo.com/notes/deathmtn/media/smidgeo_headshot.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[Smidgeo!]]></description>
-            <link>https://smidgeo.com/notes/deathmtn/test-a-PyAr.html</link>
-            <guid isPermaLink="false">test-a-PyAr</guid>
-            <pubDate>Mon, 30 Jul 2018 14:47:40 GMT</pubDate>
-            <enclosure url="https://smidgeo.com/notes/deathmtn/media/smidgeo_headshot.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[Smidgeo!]]></description>
-            <link>https://smidgeo.com/notes/deathmtn/test-a-MviO.html</link>
-            <guid isPermaLink="false">test-a-MviO</guid>
-            <pubDate>Mon, 30 Jul 2018 14:50:40 GMT</pubDate>
-            <enclosure url="https://smidgeo.com/notes/deathmtn/media/smidgeo_headshot.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[Smidgeo!]]></description>
-            <link>https://smidgeo.com/notes/deathmtn/test-a-pQmy.html</link>
-            <guid isPermaLink="false">test-a-pQmy</guid>
-            <pubDate>Tue, 31 Jul 2018 11:19:49 GMT</pubDate>
-            <enclosure url="https://smidgeo.com/notes/deathmtn/media/smidgeo_headshot.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[Smidgeo!]]></description>
-            <link>https://smidgeo.com/notes/deathmtn/test-a-eBbw.html</link>
-            <guid isPermaLink="false">test-a-eBbw</guid>
-            <pubDate>Tue, 31 Jul 2018 11:28:28 GMT</pubDate>
-            <enclosure url="https://smidgeo.com/notes/deathmtn/media/smidgeo_headshot.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[Smidgeo!]]></description>
-            <link>https://smidgeo.com/notes/deathmtn/test-a-fIxF.html</link>
-            <guid isPermaLink="false">test-a-fIxF</guid>
-            <pubDate>Fri, 17 Aug 2018 14:12:41 GMT</pubDate>
+            <link>https://smidgeo.com/notes/deathmtn/test-a-kjur.html</link>
+            <guid isPermaLink="false">test-a-kjur</guid>
+            <pubDate>Fri, 17 Aug 2018 14:20:30 GMT</pubDate>
             <enclosure url="https://smidgeo.com/notes/deathmtn/media/smidgeo_headshot.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
