@@ -4,13 +4,21 @@
         <description><![CDATA[A Static Web Archive]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 17 Aug 2018 14:20:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Aug 2018 14:22:43 GMT</lastBuildDate>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[Smidgeo!]]></description>
             <link>https://smidgeo.com/notes/deathmtn/test-a-kjur.html</link>
             <guid isPermaLink="false">test-a-kjur</guid>
             <pubDate>Fri, 17 Aug 2018 14:20:30 GMT</pubDate>
+            <enclosure url="https://smidgeo.com/notes/deathmtn/media/smidgeo_headshot.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[Smidgeo!]]></description>
+            <link>https://smidgeo.com/notes/deathmtn/test-a-Tqyj.html</link>
+            <guid isPermaLink="false">test-a-Tqyj</guid>
+            <pubDate>Fri, 17 Aug 2018 14:22:26 GMT</pubDate>
             <enclosure url="https://smidgeo.com/notes/deathmtn/media/smidgeo_headshot.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
